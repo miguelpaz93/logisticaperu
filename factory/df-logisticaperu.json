@@ -1,0 +1,9 @@
+{
+	"name": "df-logisticaperu",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "53178d1d-505c-459b-9d8a-10da85819a6e",
+		"tenantId": "cef04b19-7776-4a94-b89b-375c77a8f936"
+	}
+}
